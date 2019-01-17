@@ -1,8 +1,4 @@
-### Get Love2D here: https://love2d.org/#download
-
----
-
-# Love2D tutorials used (English):
+# [Love2D](https://love2d.org/#download) tutorials used (English):
 
 ### From wiki: https://love2d.org/wiki/Category:Tutorials
 
